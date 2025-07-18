@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🛠️ API Integration & Automation
 
 ## 📈 GitHub Stats
-![RICKYGT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RICKYGT&show_icons=true&theme=radical)
+![RICKYGT's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RICKYGT&theme=vue)
 
 ## 🔗 Links
 - 🌐 Website: [rickygt.com](https://rickygt.com)
